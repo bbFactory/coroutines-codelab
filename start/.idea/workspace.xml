@@ -11,10 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fdb4cb8-3190-493b-9284-1749095e6abc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/debug/java/com/example/android/kotlincoroutines/fakes/TestingFakes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/debug/java/com/example/android/kotlincoroutines/fakes/TestingFakes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainDatabase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainNetwork.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainNetwork.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="Android App.start">
+  <component name="RunManager" selected="Android JUnit.TitleRepositoryTest">
     <configuration name="MainViewModelTest.whenMainClicked_updatesTaps" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="start" />
       <extension name="coverage">
@@ -63,6 +59,39 @@
       <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
       <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.MainViewModelTest" />
       <option name="METHOD_NAME" value="whenMainClicked_updatesTaps" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleRepositoryTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.android.kotlincoroutines.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.TitleRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleRepositoryTest.whenRefreshTitleTimeout_throws" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.android.kotlincoroutines.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.TitleRepositoryTest" />
+      <option name="METHOD_NAME" value="whenRefreshTitleTimeout_throws" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -180,6 +209,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.TitleRepositoryTest" />
+        <item itemvalue="Android JUnit.TitleRepositoryTest.whenRefreshTitleTimeout_throws" />
         <item itemvalue="Android JUnit.MainViewModelTest.whenMainClicked_updatesTaps" />
       </list>
     </recent_temporary>
@@ -202,26 +233,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1599909749430" />
-    <state width="599" height="168" key="GridCell.Tab.0.bottom" timestamp="1599922491261">
+    <state width="599" height="267" key="GridCell.Tab.0.bottom" timestamp="1599923620546">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599922491261" />
-    <state width="599" height="168" key="GridCell.Tab.0.center" timestamp="1599922491260">
+    <state width="599" height="267" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599923620546" />
+    <state width="599" height="267" key="GridCell.Tab.0.center" timestamp="1599923620545">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599922491260" />
-    <state width="599" height="168" key="GridCell.Tab.0.left" timestamp="1599922491260">
+    <state width="599" height="267" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599923620545" />
+    <state width="599" height="267" key="GridCell.Tab.0.left" timestamp="1599923620545">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599922491260" />
-    <state width="599" height="168" key="GridCell.Tab.0.right" timestamp="1599922491261">
+    <state width="599" height="267" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599923620545" />
+    <state width="599" height="267" key="GridCell.Tab.0.right" timestamp="1599923620546">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599922491261" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1599922252505">
+    <state width="599" height="267" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599923620546" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1599923578239">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599922252505" />
+    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599923578239" />
     <state x="618" y="155" key="run.anything.popup" timestamp="1599921495435">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
