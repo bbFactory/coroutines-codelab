@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdb4cb8-3190-493b-9284-1749095e6abc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/MainViewModelTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/MainViewModelTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="Android App.finished_code">
+  <component name="RunManager" selected="Android JUnit.MainViewModelTest.whenMainClicked_updatesTaps">
+    <configuration name="MainViewModelTest.whenMainClicked_updatesTaps" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.android.kotlincoroutines.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.MainViewModelTest" />
+      <option name="METHOD_NAME" value="whenMainClicked_updatesTaps" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -150,6 +166,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.MainViewModelTest.whenMainClicked_updatesTaps" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -185,9 +206,13 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1240" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599909758334" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1599911740180">
+    <state width="498" height="445" key="SwitcherDM" timestamp="1599917915288">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599911740180" />
+    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599917915288" />
+    <state x="624" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1599917921935">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="624" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1599917921935" />
   </component>
 </project>
