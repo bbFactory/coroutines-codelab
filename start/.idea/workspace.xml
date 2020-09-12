@@ -11,7 +11,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2fdb4cb8-3190-493b-9284-1749095e6abc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debug/java/com/example/android/kotlincoroutines/fakes/TestingFakes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/debug/java/com/example/android/kotlincoroutines/fakes/TestingFakes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainNetwork.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainNetwork.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,29 +202,33 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1599909749430" />
-    <state width="599" height="168" key="GridCell.Tab.0.bottom" timestamp="1599921312764">
+    <state width="599" height="168" key="GridCell.Tab.0.bottom" timestamp="1599922491261">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
-    <state width="599" height="168" key="GridCell.Tab.0.center" timestamp="1599921312764">
+    <state width="599" height="168" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599922491261" />
+    <state width="599" height="168" key="GridCell.Tab.0.center" timestamp="1599922491260">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
-    <state width="599" height="168" key="GridCell.Tab.0.left" timestamp="1599921312764">
+    <state width="599" height="168" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599922491260" />
+    <state width="599" height="168" key="GridCell.Tab.0.left" timestamp="1599922491260">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
-    <state width="599" height="168" key="GridCell.Tab.0.right" timestamp="1599921312764">
+    <state width="599" height="168" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599922491260" />
+    <state width="599" height="168" key="GridCell.Tab.0.right" timestamp="1599922491261">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="168" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1599920272136">
+    <state width="599" height="168" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599922491261" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1599922252505">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599920272136" />
-    <state x="624" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1599917921935">
+    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599922252505" />
+    <state x="618" y="155" key="run.anything.popup" timestamp="1599921495435">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="624" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1599917921935" />
+    <state x="618" y="155" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1599921495435" />
+    <state x="624" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1599922262786">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="624" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1599922262786" />
   </component>
 </project>
