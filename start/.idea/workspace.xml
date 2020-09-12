@@ -5,10 +5,12 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2fdb4cb8-3190-493b-9284-1749095e6abc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,26 +198,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1599909749430" />
-    <state width="599" height="388" key="GridCell.Tab.0.bottom" timestamp="1599920081740">
+    <state width="599" height="168" key="GridCell.Tab.0.bottom" timestamp="1599921312764">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="388" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599920081740" />
-    <state width="599" height="388" key="GridCell.Tab.0.center" timestamp="1599920081739">
+    <state width="599" height="168" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
+    <state width="599" height="168" key="GridCell.Tab.0.center" timestamp="1599921312764">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="388" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599920081739" />
-    <state width="599" height="388" key="GridCell.Tab.0.left" timestamp="1599920081739">
+    <state width="599" height="168" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
+    <state width="599" height="168" key="GridCell.Tab.0.left" timestamp="1599921312764">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="388" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599920081739" />
-    <state width="599" height="388" key="GridCell.Tab.0.right" timestamp="1599920081739">
+    <state width="599" height="168" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
+    <state width="599" height="168" key="GridCell.Tab.0.right" timestamp="1599921312764">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="388" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599920081739" />
-    <state width="498" height="445" key="SwitcherDM" timestamp="1599917915288">
+    <state width="599" height="168" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599921312764" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1599920272136">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599917915288" />
+    <state width="498" height="445" key="SwitcherDM/0.0.1280.689@0.0.1280.689" timestamp="1599920272136" />
     <state x="624" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1599917921935">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
