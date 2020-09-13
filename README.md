@@ -1,4 +1,4 @@
-## coroutines-codelab
+## Coroutines-Codelab
 Coroutine 과정 Pratice in codelab <br/>
 This code can be found in [Google CodeLabs](https://github.com/googlecodelabs)
 and is for the [Kotlin Coroutines codelab](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html)
