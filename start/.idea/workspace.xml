@@ -6,13 +6,11 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fdb4cb8-3190-493b-9284-1749095e6abc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/example/android/kotlincoroutines/main/RefreshMainDataWorkTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidTest/java/com/example/android/kotlincoroutines/main/RefreshMainDataWorkTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/RefreshMainDataWork.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/RefreshMainDataWork.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
-  <component name="RunManager" selected="Android Instrumented Tests.RefreshMainDataWorkT...">
+  <component name="RunManager" selected="Android App.start">
     <configuration name="MainViewModelTest.whenMainClicked_updatesTaps" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="start" />
       <extension name="coverage">
@@ -283,22 +281,22 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1599909749430" />
-    <state width="599" height="271" key="GridCell.Tab.0.bottom" timestamp="1599961120983">
+    <state width="1240" height="271" key="GridCell.Tab.0.bottom" timestamp="1599962638229">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="271" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599961120983" />
-    <state width="599" height="271" key="GridCell.Tab.0.center" timestamp="1599961120983">
+    <state width="1240" height="271" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599962638229" />
+    <state width="1240" height="271" key="GridCell.Tab.0.center" timestamp="1599962638229">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="271" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599961120983" />
-    <state width="599" height="271" key="GridCell.Tab.0.left" timestamp="1599961120983">
+    <state width="1240" height="271" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599962638229" />
+    <state width="1240" height="271" key="GridCell.Tab.0.left" timestamp="1599962638229">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="271" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599961120983" />
-    <state width="599" height="271" key="GridCell.Tab.0.right" timestamp="1599961120983">
+    <state width="1240" height="271" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599962638229" />
+    <state width="1240" height="271" key="GridCell.Tab.0.right" timestamp="1599962638229">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="599" height="271" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599961120983" />
+    <state width="1240" height="271" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599962638229" />
     <state width="498" height="445" key="SwitcherDM" timestamp="1599961128825">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
